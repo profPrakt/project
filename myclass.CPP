@@ -5,6 +5,8 @@
 
 void main()
 {
+SetConsoleOutputCP(1251);//подключение кириллицы
+
 int i;
 int P=1;
 int n;
