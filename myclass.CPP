@@ -3,7 +3,7 @@
 
 using namespace std;
 
-void main()
+int main()
 {
 SetConsoleOutputCP(1251);//подключение кириллицы
 int P=1;
@@ -15,7 +15,7 @@ int i=n;
 do
 {
 P*=i;
-i--
+i--;
 }
 while (i>0)
 cout<<"Факториал="<<P<<endl;
