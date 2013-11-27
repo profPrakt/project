@@ -5,9 +5,8 @@
 
 void main()
 {
-int i,k;
+int i;
 int P=1;
-cin>>k;
 int n;
 cin>>n;
 //Вычисление факториала числа n
