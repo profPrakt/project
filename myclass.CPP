@@ -15,4 +15,6 @@ cin>>n;
 for(i=n;i>0;i--)
 P*=i;
 
+cout<<"Факториал="<<P<<endl;
+return 0 ;
 }
