@@ -5,14 +5,12 @@
 
 void main()
 {
-
 int i,k;
-
 int P=1;
 cin>>k;
 int n;
 cin>>n;
-
+//Вычисление факториала числа n
 for(i=n;i>0;i--)
 P*=i;
 
