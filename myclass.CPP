@@ -4,6 +4,6 @@
 
 void main()
 {
-
+int i=0,k=0;
 
 }
