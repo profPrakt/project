@@ -1,7 +1,7 @@
 #include <iostream.h>
-#include <assert.h>
-#include "array2.h"
+#include <windows.h>
 
+using namespace std;
 
 void main()
 {
